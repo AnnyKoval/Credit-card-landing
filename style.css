@@ -60,3 +60,12 @@ form {
   flex-direction: row;
   justify-content: space-evenly;
 }
+#contacts-page-button,
+#go-homepage-about-button,
+#submit-about-button {
+  box-shadow: 5px 5px 5px grey;
+}
+#contacts-page-button {
+  width: 200px;
+  text-align: center;
+}
